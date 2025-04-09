@@ -2,7 +2,7 @@
   "name": "login-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOGESHWARAN3645.github.io/login-page",
+  "homepage": "https://YOGESHWARAN3645.github.io/login-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
