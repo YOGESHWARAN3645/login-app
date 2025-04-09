@@ -81,7 +81,7 @@ function LoginPage() {
           style={inputStyle}
         />
 
-        <button type="submit" style={buttonStyle}>Logi</button>
+        <button type="submit" style={buttonStyle}>Login</button>
       </form>
     </div>
   );
