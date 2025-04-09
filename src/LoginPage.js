@@ -61,7 +61,7 @@ function LoginPage() {
   return (
     <div style={containerStyle}>
       <form onSubmit={handleLogin} style={formStyle}>
-        <h2 style={{ textAlign: 'center', marginBottom: '20px', color: '#333' }}>Login</h2>
+        <h2 style={{ textAlign: 'center', marginBottom: '20px', color: '#333' }}>LMW Limited</h2>
 
         {error && <p style={{ color: 'red', marginBottom: '10px' }}>{error}</p>}
 
@@ -81,7 +81,7 @@ function LoginPage() {
           style={inputStyle}
         />
 
-        <button type="Login" style={buttonStyle}>Login</button>
+        <button type="submit" style={buttonStyle}>Login</button>
       </form>
     </div>
   );
